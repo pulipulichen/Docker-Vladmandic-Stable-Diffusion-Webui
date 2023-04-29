@@ -1,0 +1,21 @@
+{
+  "name": "Docker-Vladmandic-Stable-Diffusion-Webui",
+  "version": "1.0.0",
+  "description": "Run Stable Diffusion Web UI forked by Vladmandic in Docker.",
+  "main": "data/split.js",
+  "scripts": {
+    "start": "docker-compose up --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulipulichen/Docker-Vladmandic-Stable-Diffusion-Webui.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0 license",
+  "bugs": {
+    "url": "https://github.com/pulipulichen/Docker-Vladmandic-Stable-Diffusion-Webui/issues"
+  },
+  "homepage": "https://github.com/pulipulichen/Docker-Vladmandic-Stable-Diffusion-Webui#readme",
+  "dependencies": {
+  }
+}
